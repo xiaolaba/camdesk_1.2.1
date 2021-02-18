@@ -11,4 +11,4 @@ supply xiaolaba_test.png in project folder, copy to app release folder
 ![xiaolaba_test_done.JPG](xiaolaba_test_done.JPG)
 
 own copy of camdesk.exe  
-[app.publish\CamDesk.exe](app.publish\CamDesk.exe)  
+[app.publish/CamDesk.exe](app.publish/CamDesk.exe)  
